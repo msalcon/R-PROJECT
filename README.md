@@ -1,8 +1,8 @@
-Car Market Analysis Project
-Overview
+# Car Market Analysis Project
+## Overview
 This project involves the analysis of the second-hand car market to provide valuable insights to a car resale company based in Texas. The goal is to help the company make informed decisions and optimize its business operations. The analysis covers data cleaning, statistical exploration, and visualization using R programming language.
 
-Project Structure
+## Project Structure
 Data Cleaning (data_cleaning.R):
 
 Utilizes the dplyr and tidyr libraries for efficient data cleaning.
@@ -26,7 +26,7 @@ Visualizes the average prices for cars with and without accidents using shaded l
 Results
 The comprehensive analysis provided valuable insights into the second-hand car market. Through strategic data cleaning and exploratory analysis, the company gained a clearer understanding of the market trends, brand performance, and factors influencing car prices. As a result, the company successfully reduced costs and increased profits by leveraging data-driven decision-making.
 
-Instructions
+## Instructions
 Setup:
 
 Install the required R packages using install.packages(c("dplyr", "tidyr", "ggplot2", "plotly")).
